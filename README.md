@@ -17,9 +17,9 @@ from JCOtimer.timer import timer
 
 @timer #use as decorator
 def foo():
-   pass
+   print('bar' * 999999)
 
-foo() # returns 'Time it took to run the function: 0.3 secs'
+foo() # returns 'Time it took to run the function: 0.4072580337524414 secs'
 
 ```
 
