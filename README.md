@@ -8,7 +8,8 @@ JCOtimer is a Python library package for measuring the time spent for a function
 * Windows/Linux/OSX
 * Python 3.x
 
-Check it on [Pypi](https://pypi.org/project/JCOtimer/)
+Check it on [Pypi](https://pypi.org/project/JCOtimer/).
+
 `$ pip install JCOtimer`
 
 ## Usage
