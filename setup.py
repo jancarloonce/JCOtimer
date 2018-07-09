@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="JCOtimer",
-    version="2.0",
+    version="6.0",
     author="Jan Carlo Once",
     author_email="jancarloonce11@gmail.com",
     description="This package is for measuring the time spent for a function to run.",

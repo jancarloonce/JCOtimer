@@ -12,5 +12,5 @@ def timer(some_function):
         t1 = time.time()
         some_function()
         t2 = time.time()
-        return "Time it took to run the function: " + str((t2 - t1)) + " secs"
+        return "Time it took to run the function: %.20f secs" % float(t2 - t1)
     return wrapper
