@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: JCOtimer
+Version: 2.0
+Summary: This package is for measuring the time spent for a function to run.
+Home-page: https://github.com/jancarloonce/JCOtimer
+Author: Jan Carlo Once
+Author-email: jancarloonce11@gmail.com
+License: UNKNOWN
+Description: This package is for measuring the time spent for a function to run.
+        
+        Just use the import  statement:
+        
+        from JCOtimer.timer import timer
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

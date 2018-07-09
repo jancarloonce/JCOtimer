@@ -1,0 +1,8 @@
+README.md
+setup.py
+JCOtimer/__init__.py
+JCOtimer/timer.py
+JCOtimer.egg-info/PKG-INFO
+JCOtimer.egg-info/SOURCES.txt
+JCOtimer.egg-info/dependency_links.txt
+JCOtimer.egg-info/top_level.txt
