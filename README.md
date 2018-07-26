@@ -1,6 +1,6 @@
 # JCOtimer ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-JCOtimer is a Python  package for measuring the time spent a function takes to execute.
+JCOtimer is a Python  utility/package for measuring function runtime.
 
 ## Installation
 
