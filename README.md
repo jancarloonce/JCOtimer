@@ -1,6 +1,6 @@
 # JCOtimer ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-JCOtimer is a Python  utility/package for measuring function runtime.
+Decorator for python method runtime
 
 ## Installation
 
